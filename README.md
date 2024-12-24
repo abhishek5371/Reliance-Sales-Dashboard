@@ -25,6 +25,11 @@ This Power BI dashboard provides an insightful analysis of Reliance's sales data
 
 ---
 
+## Project Demo
+
+![Demo Preview](path/to/demo-preview.gif)
+
+
 ## Future Enhancements
 - Incorporating predictive analytics to forecast future sales trends.
 - Adding additional data sources for more comprehensive analysis.
